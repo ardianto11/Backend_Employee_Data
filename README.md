@@ -1,7 +1,5 @@
 Running API :
 
-API folder is Lumen Backend. Running API folder in CLI
-
 $ composer install
 
 $ cp .env.example .env
