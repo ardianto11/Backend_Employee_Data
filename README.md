@@ -10,4 +10,8 @@ $ Run Lumen
 
 OR
 
-$ You can import database. get sql file in database Folder.
+$ You can import database. get sql file in database Folder and import to your mysql
+
+$ $ cp .env.example .env
+
+$ Run Lumen
